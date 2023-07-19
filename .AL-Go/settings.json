@@ -3,5 +3,5 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "installApps": [".\\.AL-Go\\Continia\\Core 8.1.0.273509 - 22.1 (BC 2023 Wave 1 CU1).app",".\\.AL-Go\\Continia\\DC 11.1.0.273474 - 22.1 (BC 2023 Wave 1 CU1).app"]
+  "installApps": ["\\.AL-Go\\Continia\\Core 8.1.0.273509 - 22.1 (BC 2023 Wave 1 CU1).app","\\.AL-Go\\Continia\\DC 11.1.0.273474 - 22.1 (BC 2023 Wave 1 CU1).app"]
 }
