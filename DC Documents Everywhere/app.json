@@ -12,6 +12,12 @@
   "logo": "",
   "dependencies": [
     {
+      "id": "4b915d7e-c02a-435f-85ab-649086c1e002",
+      "publisher": "Continia Software",
+      "name": "Continia Core",
+      "version": "8.0.0.0"
+     },
+     {
       "id": "6da8dd2f-e698-461f-9147-8e404244dd85",
       "publisher": "Continia Software",
       "name": "Continia Document Capture",
