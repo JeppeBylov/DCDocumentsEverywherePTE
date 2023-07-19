@@ -3,5 +3,5 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "installApps": ["DC Documents Everywhere\\Continia\\Core 8.1.0.273509 - 22.1 (BC 2023 Wave 1 CU1).app","DC Documents Everywhere\\Continia\\DC 11.1.0.273474 - 22.1 (BC 2023 Wave 1 CU1).app"]
+  "installApps": ["DC Documents Everywhere\\Continia\\Core 8.1.0.273509 - 22.1 (BC 2023 Wave 1 CU1).app","DC Documents Everywhere\\Continia\\DC 11.1.0.273474 - 22.1 (BC 2023 Wave 1 CU1).app","DC Documents Everywhere\\Continia\\CDN 5.1.0.270381 - 22.1 (BC 2023 Wave 1 CU1).app"]
 }
